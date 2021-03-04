@@ -74,6 +74,9 @@
   .btn-secundario {
     background-color: var(--gris1);
   }
+  .btn-eliminar {
+    background-color: white;
+  }
   .btn-block {
     display: block;
     width: 100%;
